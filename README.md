@@ -51,7 +51,7 @@ The key goals of this project include:
 - We select best cluster with good silhouette score in which we use k=6 cluster.
 - Perform prediction on this model.
   
-- **Bank_Customer_Segmentation_and_Data_Visualization.twb**:
+- **Bank_Customer_Segmentation_and_Visualization.twb**:
 - Content the dashboard we create for visualize the data in tableau.
 - it consist 4 dashbaord with diffrent graphs.
   
